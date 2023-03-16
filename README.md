@@ -1,5 +1,5 @@
 <body>
-    <h1>Hi there <img src="https://media.tenor.com/63nE7vC84pIAAAAM/care-discord.gif" height="20" width="20px"/>, I'm Ram Uday</h1>
+    <h1>Hi there <img src="https://media.tenor.com/63nE7vC84pIAAAAM/care-discord.gif" height="30" width="30px"/>, I'm Ram Uday</h1>
   <ul>
   <li><h4>😄Pronouns: He/Him</h4></li>
   <li><h4>🥤 I'm Currently working on ReactJS<h4></li>

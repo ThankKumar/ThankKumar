@@ -8,6 +8,6 @@
   <li><h4>⚡ Music Lover🎵❤️</h4></li>
   <li><h4>📫 Connect with me: Check links👇🏻😊</h4></li>
 </ul>
-<a class="btn btn-primary"href="https://www.w3schools.com" style="background-color:red; border: 2px solid green;"><img src="https://media.tenor.com/63nE7vC84pIAAAAM/care-discord.gif"></a>
+<a class="btn btn-primary"href="https://www.w3schools.com" style="background-color:red; border: 2px solid green;"><img src="https://www.linkedin.com/feed/?doFeedRefresh=true&nis=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BccFurkFrTfGeFU492O0%2BfQ%3D%3D"></a>
       
 </body>

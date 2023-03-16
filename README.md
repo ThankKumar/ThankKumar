@@ -1,5 +1,4 @@
 
-  <body>
     <h1>Hello, world!</h1>
   <ul>
   <li><h4>😄Pronouns: He/Him</h4></li>
@@ -9,6 +8,4 @@
   <li><h4>⚡ Music Lover🎵❤️</h4></li>
   <li><h4>📫 Connect with me: Check links👇🏻😊</h4><li>
 </ul>
-  <button>helo</button>
-  </body>
 

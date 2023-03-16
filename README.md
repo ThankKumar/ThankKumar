@@ -8,6 +8,6 @@
   <li><h4>⚡ Music Lover🎵❤️</h4></li>
   <li><h4>📫 Connect with me: Check links👇🏻😊</h4></li>
 </ul>
-<a class="btn btn-primary"href="https://www.linkedin.com/in/ram-uday-kumar-609738195/" ><img style="border-radius:50px;" height="50" width="50px" src="https://img.icons8.com/ios-glyphs/1x/linkedin-circled.png"></a>
+<a class="btn btn-primary"href="https://www.linkedin.com/in/ram-uday-kumar-609738195/" ><img style="border-radius:50px;" height="50" width="50px" src="[https://img.icons8.com/ios-glyphs/1x/linkedin-circled.png](https://img.icons8.com/nolan/1x/linkedin-circled.png)"></a>
       
 </body>

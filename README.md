@@ -8,6 +8,6 @@
   <li><h4>⚡ Music Lover🎵❤️</h4></li>
   <li><h4>📫 Connect with me: Check links👇🏻😊</h4></li>
 </ul>
-     <a class="btn btn-primary"href="https://www.w3schools.com" style="background-color:red;">Visit W3Schools.com!</a>
+     <a class="btn btn-primary"href="https://www.w3schools.com" style="background-color:red; border: 2px solid green;">Visit W3Schools.com!</a>
       <button type="button">Click Me!</button>
 </body>

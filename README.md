@@ -1,14 +1,14 @@
 
   <body>
     <h1>Hello, world!</h1>
-  <ol>
-  <li><h1>😄Pronouns: He/Him</h1></li>
-  <li><h2>🥤 I'm Currently working on ReactJS<h2></li>
+  <ul>
+  <li><h3>😄Pronouns: He/Him</h3></li>
+  <li><h3>🥤 I'm Currently working on ReactJS<h3></li>
   <li><h3>🌱 I’m currently learning how to build robust and scalable distributed systems</h3></li>
-  <li><h4>💬 Ask me about JavaScript, Front-End Development</h4></li>
-  <li><h5>⚡ Music Lover🎵❤️</h5></li>
-  <li><h6>📫 Connect with me: Check links👇🏻😊</h6><li>
-</ol>
+  <li><h3>💬 Ask me about JavaScript, Front-End Development</h3></li>
+  <li><h3>⚡ Music Lover🎵❤️</h3></li>
+  <li><h3>📫 Connect with me: Check links👇🏻😊</h3><li>
+</ul>
   <button>helo</button>
   </body>
 

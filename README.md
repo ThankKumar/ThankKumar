@@ -8,6 +8,6 @@
   <li><h4>⚡ Music Lover🎵❤️</h4></li>
   <li><h4>📫 Connect with me: Check links👇🏻😊</h4></li>
 </ul>
-<a class="btn btn-primary"href="https://www.linkedin.com/in/ram-uday-kumar-609738195/" ><img style="border-radius:50px;" height="50" width="50px" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_400px.gif"></a>
+<a class="btn btn-primary"href="https://www.linkedin.com/in/ram-uday-kumar-609738195/" ><img style="border-radius:30px;" height="50" width="50px" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_400px.gif"></a>
       
 </body>

@@ -8,5 +8,5 @@
   <li><h4>⚡ Music Lover🎵❤️</h4></li>
   <li><h4>📫 Connect with me: Check links👇🏻😊</h4></li>
 </ul>
-     <a href="https://www.w3schools.com">Visit W3Schools.com!</a>
+     <a class="btn btn-primary"href="https://www.w3schools.com">Visit W3Schools.com!</a>
 </body>

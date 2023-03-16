@@ -2,12 +2,12 @@
   <body>
     <h1>Hello, world!</h1>
   <ul>
-  <li><h3>😄Pronouns: He/Him</h3></li>
-  <li><h3>🥤 I'm Currently working on ReactJS<h3></li>
-  <li><h3>🌱 I’m currently learning how to build robust and scalable distributed systems</h3></li>
-  <li><h3>💬 Ask me about JavaScript, Front-End Development</h3></li>
-  <li><h3>⚡ Music Lover🎵❤️</h3></li>
-  <li><h3>📫 Connect with me: Check links👇🏻😊</h3><li>
+  <li><h4>😄Pronouns: He/Him</h4></li>
+  <li><h4>🥤 I'm Currently working on ReactJS<h4></li>
+  <li><h4>🌱 I’m currently learning how to build robust and scalable distributed systems</h4></li>
+  <li><h4>💬 Ask me about JavaScript, Front-End Development</h4></li>
+  <li><h4>⚡ Music Lover🎵❤️</h4></li>
+  <li><h4>📫 Connect with me: Check links👇🏻😊</h4><li>
 </ul>
   <button>helo</button>
   </body>

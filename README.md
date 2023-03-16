@@ -8,6 +8,6 @@
   <li><h4>⚡ Music Lover🎵❤️</h4></li>
   <li><h4>📫 Connect with me: Check links👇🏻😊</h4></li>
 </ul>
-<a class="btn btn-primary"href="https://www.linkedin.com/in/ram-uday-kumar-609738195/" ><img style="border-radius:10;" height="50" width="50px" src="[https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_400px.gif](https://ouch-cdn2.icons8.com/-Xds7x4-gNSRN8uziFubyTcIH-iK5jLc4s2oSYm-QVc/rs:fit:256:256/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9wbmcvMjQ3/L2NmOThkOWJmLWRl/NTktNDMzYi1hNjQ1/LTUzYjNkMTczMTU4/My5wbmc.png)"></a>
+<a class="btn btn-primary"href="https://www.linkedin.com/in/ram-uday-kumar-609738195/" ><img style="border-radius:50px;" height="50" width="50px" src="[https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_400px.gif](https://ouch-cdn2.icons8.com/-Xds7x4-gNSRN8uziFubyTcIH-iK5jLc4s2oSYm-QVc/rs:fit:256:256/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9wbmcvMjQ3/L2NmOThkOWJmLWRl/NTktNDMzYi1hNjQ1/LTUzYjNkMTczMTU4/My5wbmc.png)"></a>
       
 </body>

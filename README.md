@@ -14,7 +14,7 @@
       <h1></h1>
       <h1></h1>
       <h1>Github Summary</h1>
-<img src="https://camo.githubusercontent.com/8f89bb43347ab369140df3e426d37b1f2a8b3072b1759e9ce75f3e57e90891a9/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d7269736861626833323730302673686f775f69636f6e733d74727565267468656d653d676f7468616d26636f756e745f707269766174653d74727565" alt="Girl in a jacket" width="500" height="600">
+<img src="https://avatars.githubusercontent.com/u/56128152?s=96&v=4" alt="Girl in a jacket" width="500" height="600">
       
       
 </body>

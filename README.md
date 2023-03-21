@@ -14,7 +14,7 @@
       <h1></h1>
       <h1></h1>
       <h1>Github Summary</h1>
-<img src="https://ton.twitter.com/1.1/ton/data/dm/1638202039606861830/1638202025514094598/kR7F8g3P.jpg:medium" alt="Girl in a jacket" width="500" height="600">
+<img src="https://twitter.com/SOCIALN83014998/photo" alt="Girl in a jacket" width="500" height="600">
       
       
 </body>

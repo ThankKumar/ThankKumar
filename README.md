@@ -14,7 +14,7 @@
       <h1></h1>
       <h1></h1>
       <h1>Github Summary</h1>
-      <img style="border-radius:50px;" height="60" width="60px" src="https://github.com/ThankKumar/ThankKumar/blob/main/first.png?raw=true">
+      <img style="border-radius:50px;" height="60" width="60px" src="https://github.com/ThankKumar/ThankKumar/blob/main/first.png">
       
       
 </body>

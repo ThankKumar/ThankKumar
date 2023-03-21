@@ -14,7 +14,7 @@
       <h1></h1>
       <h1></h1>
       <h1>Github Summary</h1>
-<img src="https://www.linkedin.com/dms/D5606AQGP4W8jj6V9IA/messaging-attachmentFile/0/1679415446961?m=AQIDh9zwUdeglwAAAYcE9hjQ3ZXN8HeUy7FmCfIE0q_80IbWsL7GGG2rGQ&ne=1&v=beta&t=dHjy06k8RhaFF4Gge2ITXaqgEJfrEWp2tPKZFLb-Rc4" alt="Girl in a jacket" width="500" height="600">
+<img src="https://ton.twitter.com/1.1/ton/data/dm/1638202039606861830/1638202025514094598/kR7F8g3P.jpg:medium" alt="Girl in a jacket" width="500" height="600">
       
       
 </body>

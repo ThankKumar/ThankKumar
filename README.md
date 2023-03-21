@@ -14,7 +14,7 @@
       <h1></h1>
       <h1></h1>
       <h1>Github Summary</h1>
-<img src="https://pbs.twimg.com/media/Frwafy2WIAoDtM5?format=jpg&name=small" alt="Girl in a jacket" width="500" height="600">
+<img src="https://pbs.twimg.com/media/Frwgd8vWIAk8zSc?format=png&name=small" alt="Girl in a jacket" width="500" height="600">
       
       
 </body>

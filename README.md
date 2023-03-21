@@ -14,7 +14,7 @@
       <h1></h1>
       <h1></h1>
       <h1>Github Summary</h1>
-<img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
+<img src="https://avatars.githubusercontent.com/u/92917973?v=4" alt="Girl in a jacket" width="500" height="600">
       
       
 </body>

@@ -14,7 +14,7 @@
       <h1></h1>
       <h1></h1>
       <h1>Github Summary</h1>
-      <img style="border-radius:50px;" height="60" width="60px" src="https://drive.google.com/drive/u/5/folders/192v4KKSUoYJQK32QwBV7TdiK7FGGu1FL">
+      <img style="border-radius:50px;" height="60" width="60px" src="https://github.com/ThankKumar/myProfile/blob/gh-pages/hello1.svg">
       
       
 </body>

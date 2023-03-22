@@ -15,7 +15,7 @@
       <h1>Github Summary</h1>
 <img style="border-radius:50px;" src="https://pbs.twimg.com/media/FrybPffaQAEzEs2?format=jpg&name=small" alt="Girl in a jacket" width="500" height="200">
  <span></span>
-      <img style="border-radius:50px;" src="https://pbs.twimg.com/media/FrybPjlaEAEwynk?format=png&name=small" width="500" height="200">
+      <img style="border-radius:60px;" src="https://pbs.twimg.com/media/FrybPjlaEAEwynk?format=png&name=small" width="500" height="200">
 
  
 

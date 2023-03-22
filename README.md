@@ -13,9 +13,9 @@
       <a class="btn btn-primary" href="https://thankkumar.github.io/myProfile/" ><img style="border-radius:50px;" height="60" width="60px" src="https://img.icons8.com/fluency/1x/anonymous-mask.png"></a>
       <span></span>
       <h1>Github Summary</h1>
-<img src="https://pbs.twimg.com/media/FrybPffaQAEzEs2?format=jpg&name=small" alt="Girl in a jacket" width="500" height="200">
+<img style="border-radius:50px;" src="https://pbs.twimg.com/media/FrybPffaQAEzEs2?format=jpg&name=small" alt="Girl in a jacket" width="500" height="200">
  <span></span>
-      <img src="https://pbs.twimg.com/media/FrybPjlaEAEwynk?format=png&name=small" width="500" height="200">
+      <img style="border-radius:50px;" src="https://pbs.twimg.com/media/FrybPjlaEAEwynk?format=png&name=small" width="500" height="200">
 
  
 
